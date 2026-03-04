@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import ChatBot from "./ChatBot";
+import ChatBot from "./Header";
 
 export default function Navbar() {
 
